@@ -91,7 +91,7 @@ A web-based project focused on WhatsApp-style communication and interaction.
 
 - 💼 LinkedIn: [Raahul Datta](https://www.linkedin.com/)
 - 🌐 Portfolio: Coming soon
-- 📧 Email: Add your email here
+- 📧 Email: raahuldatta@gmail.com
 
 ---
 
