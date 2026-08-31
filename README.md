@@ -27,72 +27,109 @@ I'm driven by curiosity, continuous learning, and the process of turning ideas i
 
 ## 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript" />
+<p align="left">
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="45"/></a>&nbsp;
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="45"/></a>&nbsp;
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="45"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="45"/></a>&nbsp;
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45"/></a>
 </p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<sub>Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TypeScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JavaScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SQL</sub>
 </p>
 
 ---
 
 ## 🎨 Frontend Development
 
+<p align="left">
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="45"/></a>&nbsp;
+<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="45"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="45"/></a>&nbsp;
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/></a>
+</p>
+
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+<sub>React&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Next.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tailwind CSS</sub>
 </p>
 
 ---
 
 ## ⚙️ Backend Development
 
+<p align="left">
+<a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" width="45"/></a>&nbsp;
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/></a>&nbsp;
+<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="45"/></a>&nbsp;
+<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="45"/></a>
+</p>
+
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" />
+<sub>Spring Boot&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Node.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Express.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FastAPI</sub>
 </p>
 
 ---
 
 ## 🗄️ Databases
 
+<p align="left">
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="45"/></a>&nbsp;
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45"/></a>&nbsp;
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/></a>
+</p>
+
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+<sub>PostgreSQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MongoDB</sub>
 </p>
 
 ---
 
 ## ☁️ Cloud & DevOps
 
+<p align="left">
+<a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="45"/></a>&nbsp;
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="45"/></a>&nbsp;
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="45"/></a>&nbsp;
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45"/></a>&nbsp;
+<a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="45"/></a>
+</p>
+
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,githubactions" />
+<sub>AWS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Docker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linux&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub Actions</sub>
 </p>
 
 ---
 
 ## 🤖 AI & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<p align="left">
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="45"/></a>&nbsp;
+<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/></a>&nbsp;
+<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="45"/></a>
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge" />
+<sub>Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TensorFlow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PyTorch</sub>
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🧩 Core Engineering
 
-<p>
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-181717?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Object--Oriented%20Programming-181717?style=for-the-badge" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/System%20Design-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Software%20Architecture-6A5ACD?style=for-the-badge" />
+<p align="left">
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-181717?style=flat-square"/>
+<img src="https://img.shields.io/badge/Object--Oriented%20Programming-181717?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square"/>
+<img src="https://img.shields.io/badge/System%20Design-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Software%20Architecture-6A5ACD?style=flat-square"/>
 </p>
 
 ---
@@ -118,15 +155,24 @@ The platform evaluates:
 
 It also includes **real-time collaboration, scenario modeling, saved analyses, and PDF/CSV/PNG exports**.
 
-**Tech Stack**
+### Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,nodejs,express" />
+<p align="left">
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="45"/></a>&nbsp;
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="45"/></a>&nbsp;
+<a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" width="45"/></a>&nbsp;
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/></a>&nbsp;
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/></a>&nbsp;
+<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="45"/></a>
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+<sub>React&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TypeScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vite&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tailwind CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Node.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Express.js</sub>
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
 </p>
 
 ---
@@ -139,10 +185,16 @@ Watchify is a modern web application designed for discovering and exploring movi
 
 The project focuses on building a responsive frontend, integrating external APIs, and presenting entertainment data in a clean and engaging interface.
 
-**Tech Stack**
+### Tech Stack
+
+<p align="left">
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="45"/></a>&nbsp;
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="45"/></a>&nbsp;
+<a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" width="45"/></a>
+</p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,typescript,vite" />
+<sub>React&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TypeScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vite</sub>
 </p>
 
 ---
@@ -155,16 +207,20 @@ A machine learning and deep learning project focused on applying computational i
 
 The project explores how different **machine learning and deep learning algorithms** can be applied to biological sequence data for classification and analysis.
 
-**Tech Stack**
+### Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
+<p align="left">
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="45"/></a>
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Analysis-2E8B57?style=for-the-badge" />
+<sub>Python</sub>
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-2E8B57?style=for-the-badge"/>
 </p>
 
 ---
@@ -175,12 +231,19 @@ The project explores how different **machine learning and deep learning algorith
 
 A web-based project inspired by WhatsApp-style communication and messaging experiences.
 
-The project focuses on frontend development, user interaction, and building a familiar real-time communication interface.
+The project focuses on frontend development, user interaction, and building a familiar communication interface.
 
-**Tech Stack**
+### Tech Stack
+
+<p align="left">
+<a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" width="45"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="45"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="45"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="45"/></a>
+</p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=vue,javascript,html,css" />
+<sub>Vue.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JavaScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSS</sub>
 </p>
 
 ---
@@ -225,8 +288,17 @@ I'm particularly interested in the intersection of **software engineering, artif
 
 # 📚 Currently Learning
 
+<p align="left">
+<a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="45"/></a>&nbsp;
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="45"/></a>&nbsp;
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="45"/></a>&nbsp;
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="45"/></a>&nbsp;
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="45"/></a>&nbsp;
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="45"/></a>
+</p>
+
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,java,python,typescript" />
+<sub>AWS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Docker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linux&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TypeScript</sub>
 </p>
 
 I'm currently focusing on strengthening my understanding of:
