@@ -1,227 +1,142 @@
-# Hi there 👋 I'm Raahul Datta
-
-### Full-Stack Developer • AI Enthusiast • Cloud & DevOps Learner
-
-I'm a **Full-Stack Developer** passionate about building reliable, scalable, and user-focused software.
-
-I enjoy working across the stack — from designing backend systems and REST APIs to building modern frontend applications — while exploring **Artificial Intelligence, Cloud Computing, DevOps, and System Design**.
-
-I'm driven by curiosity, continuous learning, and the process of turning ideas into practical software.
-
----
-
-## 🚀 What I'm Currently Focused On
-
-* 💻 Building **full-stack applications** with Java, Python, TypeScript, and modern web technologies
-* 🤖 Exploring **Generative AI, AI/ML, and AI-powered applications**
-* ☁️ Building practical knowledge in **AWS and Cloud Computing**
-* ⚙️ Developing skills in **DevOps, Docker, Linux, and CI/CD**
-* 🧠 Strengthening **Data Structures & Algorithms, OOP, SQL, and System Design**
-* 🏗️ Learning to design and build **scalable and maintainable systems**
-* 🌱 Continuously experimenting with new technologies and development practices
-* 🤝 Open to collaborating on **interesting software, AI, and open-source projects**
-
----
-
-# 🧠 Technical Skills
-
-## 💻 Programming Languages
+# 👋 Hi, I'm Raahul Datta
 
 <p align="left">
-<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="45"/></a>&nbsp;
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="45"/></a>&nbsp;
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="45"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="45"/></a>&nbsp;
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45"/></a>
+  <img src="https://img.shields.io/badge/FULL--STACK%20DEVELOPER-4285F4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20ENTHUSIAST-8A2BE2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CLOUD%20%26%20DEVOPS%20LEARNER-FF6F00?style=for-the-badge&logoColor=white"/>
 </p>
 
-<p>
-<sub>Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TypeScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JavaScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SQL</sub>
+I build software with a focus on **clean architecture, practical problem-solving, and real-world usability**.
+
+My work spans the full development lifecycle — from designing APIs and backend systems to building modern interfaces, integrating AI capabilities, and experimenting with cloud infrastructure and DevOps practices.
+
+I'm particularly interested in the intersection of:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-181717?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CLOUD-4285F4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DEVOPS-0F9D58?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SYSTEM%20DESIGN-FF6F00?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
 
-## 🎨 Frontend Development
+## 🚀 What I Build
 
-<p align="left">
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="45"/></a>&nbsp;
-<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="45"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="45"/></a>&nbsp;
-<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/></a>
-</p>
+* 🌐 **Full-Stack Applications** — React, Next.js, TypeScript, Java & Python
+* ⚙️ **Backend Systems & APIs** — Spring Boot, Node.js, Express & FastAPI
+* 🤖 **AI-Powered Applications** — Generative AI, Machine Learning & intelligent workflows
+* ☁️ **Cloud & Infrastructure** — AWS, Docker, Linux & CI/CD
+* 🧩 **Scalable Systems** — REST APIs, event-driven architectures & system design
+* 📊 **Data-Driven Applications** — PostgreSQL, MySQL, MongoDB & Redis
 
-<p>
-<sub>React&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Next.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tailwind CSS</sub>
-</p>
+I enjoy moving beyond simply making applications work — understanding **why systems are designed the way they are, how they communicate, how they fail, and how they can scale.**
 
 ---
 
-## ⚙️ Backend Development
+# 🧠 Engineering Stack
+
+### Languages
 
 <p align="left">
-<a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" width="45"/></a>&nbsp;
-<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/></a>&nbsp;
-<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="45"/></a>&nbsp;
-<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="45"/></a>
+<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,mysql" />
 </p>
 
-<p>
-<sub>Spring Boot&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Node.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Express.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FastAPI</sub>
+**Java · Python · TypeScript · JavaScript · SQL**
+
+### Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
+
+**React · Next.js · HTML · CSS · Tailwind CSS**
+
+### Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" />
+</p>
+
+**Spring Boot · Node.js · Express.js · FastAPI**
+
+### Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+**PostgreSQL · MySQL · MongoDB · Redis**
+
+### Cloud & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,githubactions,nginx" />
+</p>
+
+**AWS · Docker · Linux · Git · GitHub Actions · Nginx · CI/CD**
+
+### AI & Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+**Machine Learning · Deep Learning · Generative AI · Google Gemini**
+
+### Computer Science
+
+**Data Structures & Algorithms · Object-Oriented Programming · REST APIs · System Design · Software Architecture**
 
 ---
 
-## 🗄️ Databases
+# 🚀 Selected Projects
 
-<p align="left">
-<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="45"/></a>&nbsp;
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45"/></a>&nbsp;
-<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/></a>
-</p>
+## 🧠 SynapseLab
 
-<p>
-<sub>PostgreSQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MongoDB</sub>
-</p>
+### AI-Powered Startup Validation & Strategic Intelligence
 
----
+**React · TypeScript · Node.js · Express · Google Gemini · Socket.IO**
 
-## ☁️ Cloud & DevOps
+SynapseLab transforms an early-stage startup idea into a structured strategic analysis using Generative AI.
 
-<p align="left">
-<a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="45"/></a>&nbsp;
-<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="45"/></a>&nbsp;
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="45"/></a>&nbsp;
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45"/></a>&nbsp;
-<a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="45"/></a>
-</p>
+### What it does
 
-<p>
-<sub>AWS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Docker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linux&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub Actions</sub>
-</p>
+* 📊 Market viability analysis
+* 📈 Growth potential assessment
+* 🏢 Competitor benchmarking
+* 🎯 Strategic recommendations
+* 📉 Market trend projections
+* 💰 Funding opportunity analysis
+* 🛡️ SWOT analysis
+* 🗺️ Execution roadmaps
+
+The platform also supports **real-time collaboration, scenario modeling, saved analyses, and PDF/CSV/PNG exports**.
+
+🔗 **[View Repository](https://github.com/raahuldatta/SynapseLab-updated)**
 
 ---
 
-## 🤖 AI & Machine Learning
+## 🧬 DNA Sequencing using Machine Learning & Deep Learning
 
-<p align="left">
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="45"/></a>&nbsp;
-<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/></a>&nbsp;
-<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="45"/></a>
-</p>
+### Computational Analysis of DNA Sequences
 
-<p>
-<sub>Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TensorFlow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PyTorch</sub>
-</p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-</p>
-
----
-
-## 🧩 Core Engineering
-
-<p align="left">
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-181717?style=flat-square"/>
-<img src="https://img.shields.io/badge/Object--Oriented%20Programming-181717?style=flat-square"/>
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square"/>
-<img src="https://img.shields.io/badge/System%20Design-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Software%20Architecture-6A5ACD?style=flat-square"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🧠 [SynapseLab](https://github.com/raahuldatta/SynapseLab-updated)
-
-### AI-Powered Startup Validation & Strategic Intelligence Platform
-
-SynapseLab transforms an early-stage startup idea into a structured strategic analysis using **Google Gemini**.
-
-The platform evaluates:
-
-* 📊 Market Viability
-* 📈 Growth Potential
-* 🏢 Competitor Benchmarking
-* 🎯 Strategic Recommendations
-* 📉 Market Trend Projections
-* 💰 Funding Opportunities
-* 🛡️ SWOT Analysis
-* 🗺️ Execution Roadmaps
-
-It also includes **real-time collaboration, scenario modeling, saved analyses, and PDF/CSV/PNG exports**.
-
-### Tech Stack
-
-<p align="left">
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="45"/></a>&nbsp;
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="45"/></a>&nbsp;
-<a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" width="45"/></a>&nbsp;
-<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/></a>&nbsp;
-<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/></a>&nbsp;
-<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="45"/></a>
-</p>
-
-<p>
-<sub>React&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TypeScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vite&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tailwind CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Node.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Express.js</sub>
-</p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-</p>
-
----
-
-## 🎬 [Watchify](https://github.com/raahuldatta/Watchify)
-
-### Movie & Entertainment Discovery Platform
-
-Watchify is a modern web application designed for discovering and exploring movies and entertainment content through an intuitive user experience.
-
-The project focuses on building a responsive frontend, integrating external APIs, and presenting entertainment data in a clean and engaging interface.
-
-### Tech Stack
-
-<p align="left">
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="45"/></a>&nbsp;
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="45"/></a>&nbsp;
-<a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" width="45"/></a>
-</p>
-
-<p>
-<sub>React&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TypeScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vite</sub>
-</p>
-
----
-
-## 🧬 [DNA Sequencing using Machine Learning & Deep Learning](https://github.com/raahuldatta/DNA-Sequencing-using-Machine-Learning-and-Deep-Learning-Algorithms)
-
-### Machine Learning & Deep Learning for DNA Sequence Analysis
+**Python · Machine Learning · Deep Learning · Data Analysis**
 
 A machine learning and deep learning project focused on applying computational intelligence techniques to DNA sequence analysis.
 
 The project explores how different **machine learning and deep learning algorithms** can be applied to biological sequence data for classification and analysis.
 
-### Tech Stack
+### Focus Areas
 
-<p align="left">
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="45"/></a>
-</p>
+* 🧬 DNA sequence analysis
+* 🧠 Machine Learning
+* 🤖 Deep Learning
+* 📊 Data analysis
+* 🔬 Computational biology
 
-<p>
-<sub>Python</sub>
-</p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-2E8B57?style=for-the-badge"/>
-</p>
+🔗 **[View Repository](https://github.com/raahuldatta/DNA-Sequencing-using-Machine-Learning-and-Deep-Learning-Algorithms)**
 
 ---
 
@@ -229,174 +144,162 @@ The project explores how different **machine learning and deep learning algorith
 
 ### Web-Based Communication Application
 
-A web-based project inspired by WhatsApp-style communication and messaging experiences.
+**Vue.js · JavaScript · HTML · CSS**
 
-The project focuses on frontend development, user interaction, and building a familiar communication interface.
+WotNot WhatsApp is a web-based communication application inspired by modern messaging platforms.
 
-### Tech Stack
+The project focuses on building an interactive messaging experience while exploring **frontend architecture, user interaction, responsive interfaces, and component-based development**.
 
-<p align="left">
-<a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" width="45"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="45"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="45"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="45"/></a>
-</p>
+### Focus Areas
 
-<p>
-<sub>Vue.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JavaScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSS</sub>
-</p>
+* 💬 Messaging interface
+* 🎨 Responsive UI development
+* ⚡ Interactive user experiences
+* 🧩 Component-based frontend architecture
+* 🌐 Modern web development
+
+🔗 **[View Repository](https://github.com/raahuldatta/WotNot_whatsApp)**
 
 ---
 
 # 🏗️ Engineering Interests
 
-I'm particularly interested in the intersection of **software engineering, artificial intelligence, cloud computing, and scalable systems**.
+I'm especially interested in building systems where different areas of engineering come together:
 
 ```text
-                     Software Engineering
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-            AI             Cloud            DevOps
-             │                │                │
-             └────────────────┼────────────────┘
-                              │
-                              ▼
-                     Scalable Applications
-                              │
-                              ▼
-                      Real-World Products
+                         Software Engineering
+                                │
+              ┌─────────────────┼─────────────────┐
+              │                 │                 │
+              ▼                 ▼                 ▼
+             AI               Backend           Cloud
+              │                 │                 │
+              └─────────────────┼─────────────────┘
+                                │
+                                ▼
+                         System Architecture
+                                │
+                                ▼
+                      Scalable Applications
+                                │
+                                ▼
+                         Real-World Systems
 ```
 
 ### Areas I'm Exploring
 
 * 🤖 Artificial Intelligence & Generative AI
 * 🧠 Machine Learning & Deep Learning
-* 🏗️ Backend Architecture
+* ⚙️ Backend Engineering
+* 🏗️ System Design & Software Architecture
 * 🌐 Full-Stack Development
-* ☁️ Cloud Computing & AWS
+* ☁️ AWS & Cloud Computing
+* 🐳 Docker & Containerization
 * ⚙️ DevOps & CI/CD
-* 🐳 Containerization with Docker
-* 🐧 Linux & Development Environments
+* 🐧 Linux & Infrastructure
+* 🔄 Event-Driven & Distributed Systems
 * 📊 Data-Driven Applications
-* 🔄 Distributed Systems
 * 🔐 Software Reliability & Security
-* 🧩 System Design
 
 ---
 
 # 📚 Currently Learning
 
-<p align="left">
-<a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="45"/></a>&nbsp;
-<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="45"/></a>&nbsp;
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="45"/></a>&nbsp;
-<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="45"/></a>&nbsp;
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="45"/></a>&nbsp;
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="45"/></a>
-</p>
-
-<p>
-<sub>AWS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Docker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linux&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TypeScript</sub>
-</p>
-
-I'm currently focusing on strengthening my understanding of:
+I'm currently deepening my understanding of:
 
 **Cloud Architecture → DevOps → System Design → AI Engineering → Scalable Backend Systems**
 
----
+My goal isn't to collect technologies.
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=raahuldatta&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raahuldatta&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-
-</p>
+It's to understand how the pieces fit together.
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=raahuldatta&theme=github-dark-blue&hide_border=true" />
-
-</p>
-
----
-
-# 📈 My Development Journey
+# 🧭 My Engineering Journey
 
 ```text
-                    Programming
-                        │
-                        ▼
-              Java • Python • SQL
-                        │
-                        ▼
-             OOP • DSA • Problem Solving
-                        │
-                        ▼
-              Full-Stack Development
-                        │
-                        ▼
-        React • TypeScript • REST APIs
-                        │
-                        ▼
-              Backend Engineering
-                        │
-                        ▼
-      Spring Boot • FastAPI • Node.js
-                        │
-                        ▼
-                 Cloud & DevOps
-                        │
-                        ▼
-        AWS • Docker • Linux • CI/CD
-                        │
-                        ▼
-                AI-Powered Systems
-                        │
-                        ▼
-          ML • Deep Learning • GenAI
-                        │
-                        ▼
-              System Design & Scale
+Programming Fundamentals
+        │
+        ▼
+Java • Python • SQL
+        │
+        ▼
+OOP • DSA • Problem Solving
+        │
+        ▼
+Full-Stack Development
+        │
+        ▼
+React • TypeScript • REST APIs
+        │
+        ▼
+Backend Engineering
+        │
+        ▼
+Spring Boot • FastAPI • Node.js
+        │
+        ▼
+Cloud & DevOps
+        │
+        ▼
+AWS • Docker • Linux • CI/CD
+        │
+        ▼
+AI-Powered Applications
+        │
+        ▼
+ML • Deep Learning • Generative AI
+        │
+        ▼
+System Design & Scale
 ```
 
-My goal is to continuously evolve from **building applications** to **engineering complete systems** — understanding not only how to write software, but also how to design, deploy, scale, and maintain it.
+I'm working toward becoming an engineer who can go beyond **building features** and understand the complete lifecycle of a system:
+
+**Design → Build → Test → Deploy → Monitor → Scale**
 
 ---
 
-# 🧩 Beyond the Code
+# 💡 Engineering Mindset
 
-I enjoy understanding the **"why" behind technology**, not just the "how".
+I enjoy understanding the **why behind technology**, not just the syntax.
 
-Whether I'm building an AI-powered application, designing a backend API, experimenting with cloud infrastructure, or solving a DSA problem, I try to understand:
+When I work on something, I naturally ask:
 
 ```text
 How does it work?
        ↓
-Why is it designed this way?
+Why was it designed this way?
+       ↓
+What happens when something fails?
        ↓
 How can it be improved?
        ↓
 How does it scale?
        ↓
-How can it solve a real problem?
+Can it solve a real problem?
 ```
 
-That's the mindset I bring to the projects I build and the technologies I learn.
+That mindset shapes the way I approach both learning and building.
 
 ---
 
-# 🤝 Let's Connect
+# 📊 GitHub Activity
 
-I'm always interested in connecting with developers, engineers, builders, and people working on interesting technology.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raahuldatta&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raahuldatta&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=raahuldatta&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect
+
+I'm always open to connecting with developers, engineers, builders, and people working on interesting technology.
 
 <p align="left">
 
@@ -412,14 +315,14 @@ I'm always interested in connecting with developers, engineers, builders, and pe
 
 📧 **Email:** `raahuldatta@gmail.com`
 
-🌐 **Portfolio:** *Coming soon*
+🌐 **Portfolio:** Coming soon
 
 ---
 
 <p align="center">
 
-### 🚀 Build. Learn. Experiment. Repeat.
+### Build. Learn. Experiment. Repeat.
 
-⭐ **Thanks for visiting my profile!**
+⭐ **Thanks for stopping by!**
 
 </p>
