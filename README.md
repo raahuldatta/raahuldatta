@@ -315,7 +315,7 @@ I'm always open to connecting with developers, engineers, builders, and people w
 
 📧 **Email:** `raahuldatta@gmail.com`
 
-🌐 **Portfolio:** Coming soon
+🌐 **Portfolio:** https://raahul-datta-portfolio.vercel.app
 
 ---
 
