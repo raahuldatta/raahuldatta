@@ -93,6 +93,28 @@ I enjoy moving beyond simply making applications work — understanding **why sy
 
 # 🚀 Selected Projects
 
+## 🔥 Ember
+
+### AI Incident Response Engineer
+
+**React · TypeScript · Express · PostgreSQL · Drizzle ORM · Firebase Auth · Google Gemini**
+
+Ember is a first-pass investigation workspace for on-call engineers. It aggregates incoming incidents, drafts evidence-backed root-cause hypotheses using Gemini, and proposes remediation actions — but never executes a production change without explicit human approval.
+
+### What it does
+
+* 🚨 Incident aggregation via webhook ingestion and manual creation
+* 🧭 Configurable triage rules for auto-severity and team assignment
+* 🧠 AI-generated root-cause hypotheses with cited evidence and a confidence score
+* 🛠️ Proposed remediation actions gated behind human approve/reject
+* 📝 AI-generated executive summaries for stakeholders
+* 🔗 Integrations with PagerDuty, Slack, Jira, and GitHub
+* 📄 One-click PDF incident reports and full audit-log history
+
+🔗 **[View Repository](https://github.com/raahuldatta/Ember)**
+
+---
+
 ## 🧠 SynapseLab
 
 ### AI-Powered Startup Validation & Strategic Intelligence
