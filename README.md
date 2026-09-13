@@ -80,7 +80,7 @@ I approach engineering with a **product mindset** — shipping end-to-end, from 
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=aws,azure,google,docker,githubactions,git,github,linux,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,git,github,linux,postman&theme=dark"/>
 
 </div>
 
