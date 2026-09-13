@@ -1,350 +1,471 @@
-# 👋 Hi, I'm Raahul Datta
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/FULL--STACK%20DEVELOPER-4285F4?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20ENTHUSIAST-8A2BE2?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CLOUD%20%26%20DEVOPS%20LEARNER-FF6F00?style=for-the-badge&logoColor=white"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Raahul%20Datta%20Nidumoru&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=55&descSize=18" width="100%"/>
 
-I build software with a focus on **clean architecture, practical problem-solving, and real-world usability**.
-
-My work spans the full development lifecycle — from designing APIs and backend systems to building modern interfaces, integrating AI capabilities, and experimenting with cloud infrastructure and DevOps practices.
-
-I'm particularly interested in the intersection of:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-181717?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CLOUD-4285F4?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DEVOPS-0F9D58?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SYSTEM%20DESIGN-FF6F00?style=for-the-badge&logoColor=white"/>
-</p>
-
----
-
-## 🚀 What I Build
-
-* 🌐 **Full-Stack Applications** — React, Next.js, TypeScript, Java & Python
-* ⚙️ **Backend Systems & APIs** — Spring Boot, Node.js, Express & FastAPI
-* 🤖 **AI-Powered Applications** — Generative AI, Machine Learning & intelligent workflows
-* ☁️ **Cloud & Infrastructure** — AWS, Docker, Linux & CI/CD
-* 🧩 **Scalable Systems** — REST APIs, event-driven architectures & system design
-* 📊 **Data-Driven Applications** — PostgreSQL, MySQL, MongoDB & Redis
-
-I enjoy moving beyond simply making applications work — understanding **why systems are designed the way they are, how they communicate, how they fail, and how they can scale.**
-
----
-
-# 🧠 Engineering Stack
-
-### Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,mysql" />
-</p>
-
-**Java · Python · TypeScript · JavaScript · SQL**
-
-### Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
-
-**React · Next.js · HTML · CSS · Tailwind CSS**
-
-### Backend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" />
-</p>
-
-**Spring Boot · Node.js · Express.js · FastAPI**
-
-### Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
-
-**PostgreSQL · MySQL · MongoDB · Redis**
-
-### Cloud & DevOps
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,githubactions,nginx" />
-</p>
-
-**AWS · Docker · Linux · Git · GitHub Actions · Nginx · CI/CD**
-
-### AI & Machine Learning
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-**Machine Learning · Deep Learning · Generative AI · Google Gemini**
-
-### Computer Science
-
-**Data Structures & Algorithms · Object-Oriented Programming · REST APIs · System Design · Software Architecture**
-
----
-
-# 🚀 Selected Projects
-
-## 🔥 Ember
-
-### AI Incident Response Engineer
-
-**React · TypeScript · Express · PostgreSQL · Drizzle ORM · Firebase Auth · Google Gemini**
-
-Ember is a first-pass investigation workspace for on-call engineers. It aggregates incoming incidents, drafts evidence-backed root-cause hypotheses using Gemini, and proposes remediation actions — but never executes a production change without explicit human approval.
-
-### What it does
-
-* 🚨 Incident aggregation via webhook ingestion and manual creation
-* 🧭 Configurable triage rules for auto-severity and team assignment
-* 🧠 AI-generated root-cause hypotheses with cited evidence and a confidence score
-* 🛠️ Proposed remediation actions gated behind human approve/reject
-* 📝 AI-generated executive summaries for stakeholders
-* 🔗 Integrations with PagerDuty, Slack, Jira, and GitHub
-* 📄 One-click PDF incident reports and full audit-log history
-
-🔗 **[View Repository](https://github.com/raahuldatta/Ember)**
-
----
-
-## 🧠 SynapseLab
-
-### AI-Powered Startup Validation & Strategic Intelligence
-
-**React · TypeScript · Node.js · Express · Google Gemini · Socket.IO**
-
-SynapseLab transforms an early-stage startup idea into a structured strategic analysis using Generative AI.
-
-### What it does
-
-* 📊 Market viability analysis
-* 📈 Growth potential assessment
-* 🏢 Competitor benchmarking
-* 🎯 Strategic recommendations
-* 📉 Market trend projections
-* 💰 Funding opportunity analysis
-* 🛡️ SWOT analysis
-* 🗺️ Execution roadmaps
-
-The platform also supports **real-time collaboration, scenario modeling, saved analyses, and PDF/CSV/PNG exports**.
-
-🔗 **[View Repository](https://github.com/raahuldatta/SynapseLab-updated)**
-
----
-
-## 🧬 DNA Sequencing using Machine Learning & Deep Learning
-
-### Computational Analysis of DNA Sequences
-
-**Python · Machine Learning · Deep Learning · Data Analysis**
-
-A machine learning and deep learning project focused on applying computational intelligence techniques to DNA sequence analysis.
-
-The project explores how different **machine learning and deep learning algorithms** can be applied to biological sequence data for classification and analysis.
-
-### Focus Areas
-
-* 🧬 DNA sequence analysis
-* 🧠 Machine Learning
-* 🤖 Deep Learning
-* 📊 Data analysis
-* 🔬 Computational biology
-
-🔗 **[View Repository](https://github.com/raahuldatta/DNA-Sequencing-using-Machine-Learning-and-Deep-Learning-Algorithms)**
-
----
-
-## 💬 WotNot WhatsApp
-
-### Web-Based Communication Application
-
-**Vue.js · JavaScript · HTML · CSS**
-
-WotNot WhatsApp is a web-based communication application inspired by modern messaging platforms.
-
-The project focuses on building an interactive messaging experience while exploring **frontend architecture, user interaction, responsive interfaces, and component-based development**.
-
-### Focus Areas
-
-* 💬 Messaging interface
-* 🎨 Responsive UI development
-* ⚡ Interactive user experiences
-* 🧩 Component-based frontend architecture
-* 🌐 Modern web development
-
-🔗 **[View Repository](https://github.com/raahuldatta/WotNot_whatsApp)**
-
----
-
-# 🏗️ Engineering Interests
-
-I'm especially interested in building systems where different areas of engineering come together:
-
-```text
-                         Software Engineering
-                                │
-              ┌─────────────────┼─────────────────┐
-              │                 │                 │
-              ▼                 ▼                 ▼
-             AI               Backend           Cloud
-              │                 │                 │
-              └─────────────────┼─────────────────┘
-                                │
-                                ▼
-                         System Architecture
-                                │
-                                ▼
-                      Scalable Applications
-                                │
-                                ▼
-                         Real-World Systems
-```
-
-### Areas I'm Exploring
-
-* 🤖 Artificial Intelligence & Generative AI
-* 🧠 Machine Learning & Deep Learning
-* ⚙️ Backend Engineering
-* 🏗️ System Design & Software Architecture
-* 🌐 Full-Stack Development
-* ☁️ AWS & Cloud Computing
-* 🐳 Docker & Containerization
-* ⚙️ DevOps & CI/CD
-* 🐧 Linux & Infrastructure
-* 🔄 Event-Driven & Distributed Systems
-* 📊 Data-Driven Applications
-* 🔐 Software Reliability & Security
-
----
-
-# 📚 Currently Learning
-
-I'm currently deepening my understanding of:
-
-**Cloud Architecture → DevOps → System Design → AI Engineering → Scalable Backend Systems**
-
-My goal isn't to collect technologies.
-
-It's to understand how the pieces fit together.
-
----
-
-# 🧭 My Engineering Journey
-
-```text
-Programming Fundamentals
-        │
-        ▼
-Java • Python • SQL
-        │
-        ▼
-OOP • DSA • Problem Solving
-        │
-        ▼
-Full-Stack Development
-        │
-        ▼
-React • TypeScript • REST APIs
-        │
-        ▼
-Backend Engineering
-        │
-        ▼
-Spring Boot • FastAPI • Node.js
-        │
-        ▼
-Cloud & DevOps
-        │
-        ▼
-AWS • Docker • Linux • CI/CD
-        │
-        ▼
-AI-Powered Applications
-        │
-        ▼
-ML • Deep Learning • Generative AI
-        │
-        ▼
-System Design & Scale
-```
-
-I'm working toward becoming an engineer who can go beyond **building features** and understand the complete lifecycle of a system:
-
-**Design → Build → Test → Deploy → Monitor → Scale**
-
----
-
-# 💡 Engineering Mindset
-
-I enjoy understanding the **why behind technology**, not just the syntax.
-
-When I work on something, I naturally ask:
-
-```text
-How does it work?
-       ↓
-Why was it designed this way?
-       ↓
-What happens when something fails?
-       ↓
-How can it be improved?
-       ↓
-How does it scale?
-       ↓
-Can it solve a real problem?
-```
-
-That mindset shapes the way I approach both learning and building.
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raahuldatta&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raahuldatta&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=raahuldatta&theme=github-dark-blue&hide_border=true"/>
-</p>
-
----
-
-# 🌐 Connect
-
-I'm always open to connecting with developers, engineers, builders, and people working on interesting technology.
-
-<p align="left">
-
-<a href="https://github.com/raahuldatta">
-<img src="https://img.shields.io/badge/GitHub-Raahul%20Datta-181717?style=for-the-badge&logo=github"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Building+reliable%2C+evidence-grounded+AI+systems;FastAPI+%7C+Next.js+%7C+PostgreSQL+%7C+AWS;GenAI+%2F+RAG+%2F+Agentic+Systems+Engineer;Final-Year+CSE+%40+KL+University" alt="Typing SVG" />
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Raahul%20Datta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/>
 
-</p>
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-6D28D9?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/CGPA-8.17%2F10-7C3AED?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Graduating-2027-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-4C1D95?style=flat-square&labelColor=1a1a2e"/>
 
-📧 **Email:** `raahuldatta@gmail.com`
+<br/><br/>
 
-🌐 **Portfolio:** https://raahul-datta-portfolio.vercel.app
+<a href="https://github.com/raahuldatta"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://linkedin.com/in/raahuldatta"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://raahuldatta.dev"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=raahuldatta&style=flat-square&color=8b5cf6&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/raahuldatta?style=flat-square&color=7c3aed&labelColor=1a1a2e&label=Followers"/>
+<img src="https://img.shields.io/github/stars/raahuldatta?style=flat-square&color=6d28d9&labelColor=1a1a2e&label=Stars"/>
+
+</div>
+
+<br/>
 
 ---
 
-<p align="center">
+## <img src="https://img.shields.io/badge/-About%20Me-8B5CF6?style=flat-square"/>
 
-### Build. Learn. Experiment. Repeat.
+I'm **Raahul Datta Nidumoru**, a final-year Computer Science Engineering student at **KL University, Hyderabad**, building production-grade software at the intersection of **backend engineering, cloud infrastructure, and applied AI**.
 
-⭐ **Thanks for stopping by!**
+My work centers on shipping systems that are **reliable, observable, and evidence-grounded** — from FastAPI microservices and containerized deployments on AWS, to Retrieval-Augmented Generation pipelines and multi-model AI arbitration systems. I care about correctness as much as capability: systems that don't just generate answers, but justify them.
 
-</p>
+I approach engineering with a **product mindset** — shipping end-to-end, from data model to deployment pipeline — while treating AI components as infrastructure to be tested, guarded, and monitored, not black boxes to be trusted blindly.
+
+<br/>
+
+**🎯 Open To**
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Software%20Engineer-New%20Grad%202027-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Backend%20Engineering-7C3AED?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/AI%2FML%20Engineering-6D28D9?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Roles-A78BFA?style=flat-square&labelColor=1a1a2e"/>
+
+</div>
+
+<br/>
+
+---
+
+## <img src="https://img.shields.io/badge/-Tech%20Stack-8B5CF6?style=flat-square"/>
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c&theme=dark"/>
+
+<br/><br/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark"/>
+
+<br/><br/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,redis&theme=dark"/>
+
+<br/><br/>
+
+**Cloud, DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,linux,postman&theme=dark"/>
+
+</div>
+
+<br/>
+
+---
+
+## <img src="https://img.shields.io/badge/-AI%2FML%20Expertise-8B5CF6?style=flat-square"/>
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|:--|:--:|:--|
+| **Retrieval-Augmented Generation (RAG)** | ⭐⭐⭐⭐ | Built RAG pipelines with Next.js + Node.js for context-grounded generation |
+| **LLM Integration** | ⭐⭐⭐⭐ | Production integration of OpenAI GPT-4o and Google Gemini into live systems |
+| **Agentic Systems** | ⭐⭐⭐ | Designing multi-step, tool-calling agents with human-in-the-loop approval gates |
+| **Multi-Model Arbitration** | ⭐⭐⭐ | Architecting systems that route queries across LLMs and judge/arbitrate outputs |
+| **AI Guardrails & Safety** | ⭐⭐⭐ | Hallucination detection, schema validation, and RBAC for AI-generated queries |
+| **On-Device / Edge AI** | ⭐⭐⭐ | NPU-accelerated local inference for zero-data-leaving-device RAG assistants |
+| **Observability for AI Systems** | ⭐⭐⭐ | Log/trace aggregation and root-cause analysis pipelines for production incidents |
+
+</div>
+
+<br/>
+
+---
+
+## <img src="https://img.shields.io/badge/-Featured%20Projects-8B5CF6?style=flat-square"/>
+
+<details>
+<summary><b>🧠 Ember — AI Incident Response Engineer</b></summary>
+<br/>
+
+An AI system that investigates production incidents end-to-end: aggregates alerts, analyzes logs and traces, checks recent deployments, searches historical incidents, identifies root cause, and generates a structured remediation report — with mandatory human approval before any action is taken.
+
+| Attribute | Detail |
+|:--|:--|
+| **Stack** | Python, FastAPI, LangGraph, PostgreSQL, OpenTelemetry, LLM Orchestration |
+| **Scale** | Multi-agent pipeline across alerting, log analysis, and historical-incident retrieval |
+| **Performance** | Structured multi-step reasoning with traceable intermediate steps |
+| **Security** | Human-in-the-loop approval gate before any remediation action |
+| **Impact** | Demonstrates GenAI + backend engineering + production infra in one system |
+| **Repository** | *Add repo link* |
+
+Designed to combine agentic reasoning, tool calling, and observability into a single evidence-backed incident response workflow rather than a black-box "AI suggestion" layer.
+
+</details>
+
+<details>
+<summary><b>🔐 Vaultmind — On-Device RAG Knowledge Assistant</b></summary>
+<br/>
+
+A local-first RAG system that indexes a developer's own codebase and documentation, then answers technical questions using an NPU-accelerated small language model — with zero data ever leaving the device. Built for the **Snapdragon AI Lab Build & Present Challenge** (Qualcomm, via Unstop).
+
+| Attribute | Detail |
+|:--|:--|
+| **Stack** | On-device RAG, local embeddings, NPU-accelerated small LLM |
+| **Scale** | Optimized for Snapdragon-powered HP PCs |
+| **Performance** | Local inference — no network round-trip required |
+| **Security** | 100% on-device processing; no data leaves the machine |
+| **Impact** | Privacy-first developer tooling for codebase Q&A |
+| **Repository** | *Add repo link* |
+
+Purpose-built for developers who need fast, private answers about their own code without sending proprietary source to a third-party API.
+
+</details>
+
+<details>
+<summary><b>💸 Vasooli AI — Agentic Revenue Recovery Platform</b></summary>
+<br/>
+
+An agentic platform that automates revenue recovery workflows, built for the **Razorpay Buildathon**.
+
+| Attribute | Detail |
+|:--|:--|
+| **Stack** | FastAPI, PostgreSQL, Next.js, Claude API |
+| **Scale** | End-to-end recovery pipeline from detection to action |
+| **Performance** | Agent-driven decisioning on payment recovery workflows |
+| **Security** | Structured API-based access to financial data flows |
+| **Impact** | Buildathon submission demonstrating applied agentic AI in fintech |
+| **Repository** | *Add repo link* |
+
+</details>
+
+<details>
+<summary><b>🤖 LLM Arbitration System</b> <i>(in development)</i></summary>
+<br/>
+
+A system that routes incoming queries to multiple LLMs in parallel and arbitrates between their outputs to select or synthesize the most reliable response.
+
+| Attribute | Detail |
+|:--|:--|
+| **Stack** | Multi-LLM routing layer, API orchestration, notification system |
+| **Scale** | Designed for multi-provider LLM fan-out and judging |
+| **Performance** | Comparative evaluation across model outputs |
+| **Security** | Provider-isolated API key handling |
+| **Impact** | Reduces single-model failure risk via cross-model arbitration |
+| **Repository** | *Add repo link* |
+
+</details>
+
+<details>
+<summary><b>🛡️ Quardian — Secure Text-to-SQL Guardrails System</b> <i>(in development)</i></summary>
+<br/>
+
+A secure desktop application that converts natural language into SQL with guardrails: hallucination detection, schema validation, role-based access control, and query performance analytics.
+
+| Attribute | Detail |
+|:--|:--|
+| **Stack** | Text-to-SQL engine, RBAC layer, desktop application shell |
+| **Scale** | Designed as a standalone downloadable desktop app |
+| **Performance** | Real-time query logging and performance analytics |
+| **Security** | Hallucination detection, schema validation, role-based access control |
+| **Impact** | Enables safe natural-language database querying in secured environments |
+| **Repository** | *Add repo link* |
+
+</details>
+
+<details>
+<summary><b>⚙️ WotNot — Microservices Platform</b></summary>
+<br/>
+
+| Attribute | Detail |
+|:--|:--|
+| **Stack** | FastAPI microservices, OAuth 2.0, PostgreSQL |
+| **Scale** | Multi-service architecture with secured inter-service auth |
+| **Performance** | Decoupled services for independent scaling |
+| **Security** | OAuth 2.0-based authentication and authorization |
+| **Impact** | Backend architecture demonstrating microservices best practices |
+| **Repository** | *Add repo link* |
+
+</details>
+
+<details>
+<summary><b>🚀 DevLaunch — Containerized Deployment Pipeline</b></summary>
+<br/>
+
+| Attribute | Detail |
+|:--|:--|
+| **Stack** | Docker, AWS EC2, CI/CD |
+| **Scale** | Automated build-to-deploy pipeline |
+| **Performance** | Consistent, repeatable deployments via containerization |
+| **Security** | CI/CD-gated deployment process |
+| **Impact** | Streamlines deployment workflow for cloud-hosted applications |
+| **Repository** | *Add repo link* |
+
+</details>
+
+<details>
+<summary><b>🧩 SynapseLab — RAG-Powered Application</b></summary>
+<br/>
+
+| Attribute | Detail |
+|:--|:--|
+| **Stack** | Next.js, Node.js, RAG Pipelines |
+| **Scale** | Full-stack app with integrated retrieval-augmented generation |
+| **Performance** | Context-grounded response generation |
+| **Security** | Standard API-layer access control |
+| **Impact** | Applied RAG in a production-style full-stack setting |
+| **Repository** | *Add repo link* |
+
+</details>
+
+<details>
+<summary><b>📄 ATS Resume Parser</b></summary>
+<br/>
+
+| Attribute | Detail |
+|:--|:--|
+| **Stack** | Parsing engine, structured data extraction |
+| **Scale** | Single-document parsing pipeline |
+| **Performance** | Structured field extraction from unstructured resumes |
+| **Security** | Local/document-scoped processing |
+| **Impact** | Automates resume screening against ATS criteria |
+| **Repository** | *Add repo link* |
+
+</details>
+
+<details>
+<summary><b>👁️ Watchify</b></summary>
+<br/>
+
+| Attribute | Detail |
+|:--|:--|
+| **Stack** | *Add stack details* |
+| **Scale** | *Add scale details* |
+| **Performance** | *Add performance details* |
+| **Security** | *Add security details* |
+| **Impact** | *Add impact details* |
+| **Repository** | *Add repo link* |
+
+</details>
+
+<br/>
+
+---
+
+## <img src="https://img.shields.io/badge/-Experience-8B5CF6?style=flat-square"/>
+
+**Full Stack Developer Intern** · Redgates IT Solution
+`Jun 2026 – Aug 2026`
+
+Completed a 3-month full stack development internship, working on a salon service application under the guidance of the Managing Director.
+
+- Built and iterated on a full stack salon service application
+- Collaborated directly with company leadership on feature scope
+- Worked across the stack from data model to UI
+
+`FastAPI` `Full Stack Development` `Product Iteration`
+
+<br/>
+
+**Full Stack Developer Intern** · AD-X LIVE Private Limited
+`Jan 2026 – Apr 2026`
+
+Completed a 3-month hybrid full stack development internship based in Gachibowli, Hyderabad.
+
+- Delivered full stack features in a hybrid work environment
+- Worked within an established engineering codebase and workflow
+
+`Full Stack Development` `Hybrid Engineering`
+
+<br/>
+
+**Digital Content & Social Media Engineer** · iCOnquerors
+`Ongoing`
+
+Leads digital content and social media strategy work for client brands.
+
+- Produces content strategy and social media assets for client brands
+- Bridges technical and creative execution
+
+`Content Strategy` `Social Media`
+
+<br/>
+
+---
+
+## <img src="https://img.shields.io/badge/-Achievements-8B5CF6?style=flat-square"/>
+
+<div align="center">
+
+| Recognition | Details |
+|:--|:--|
+| 🏆 Razorpay Buildathon | Built **Vasooli AI**, an agentic revenue recovery platform |
+| 🏆 Snapdragon AI Lab Build & Present Challenge | Building **Vaultmind**, an on-device RAG assistant (Qualcomm, via Unstop) |
+| ☁️ AWS Certified Cloud Practitioner | Certified in core AWS cloud concepts and services |
+| 🎓 Academic Standing | CGPA 8.17/10, Final-Year CSE, KL University |
+
+</div>
+
+<br/>
+
+---
+
+## <img src="https://img.shields.io/badge/-Certifications-8B5CF6?style=flat-square"/>
+
+**AWS**
+
+<img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<br/><br/>
+
+*Additional certifications in progress — updated as completed.*
+
+<br/>
+
+---
+
+## <img src="https://img.shields.io/badge/-Coding%20Profiles-8B5CF6?style=flat-square"/>
+
+<div align="center">
+
+<a href="https://leetcode.com/raahuldatta"><img src="https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://www.geeksforgeeks.org/user/raahuldatta"><img src="https://img.shields.io/badge/GeeksforGeeks-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://www.hackerrank.com/raahuldatta"><img src="https://img.shields.io/badge/HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://www.codechef.com/users/raahuldatta"><img src="https://img.shields.io/badge/CodeChef-A78BFA?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e"/></a>
+
+</div>
+
+<br/>
+
+---
+
+## <img src="https://img.shields.io/badge/-GitHub%20Analytics-8B5CF6?style=flat-square"/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=raahuldatta&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=raahuldatta&theme=radical&hide_border=true&background=0d0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raahuldatta&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
+
+</div>
+
+<br/>
+
+---
+
+## <img src="https://img.shields.io/badge/-GitHub%20Trophies-8B5CF6?style=flat-square"/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=raahuldatta&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+
+</div>
+
+<br/>
+
+---
+
+## <img src="https://img.shields.io/badge/-Contribution%20Activity-8B5CF6?style=flat-square"/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raahuldatta&theme=react-dark&bg_color=0d0221&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true"/>
+
+</div>
+
+<br/>
+
+---
+
+## <img src="https://img.shields.io/badge/-Contribution%20Snake-8B5CF6?style=flat-square"/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/raahuldatta/raahuldatta/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+<br/>
+
+---
+
+## <img src="https://img.shields.io/badge/-Current%20Focus-8B5CF6?style=flat-square"/>
+
+```yaml
+current_focus:
+  learning:
+    - Advanced agentic AI system design (LangGraph, multi-step reasoning)
+    - Model evaluation and structured AI reasoning pipelines
+    - Deep learning fundamentals
+  building:
+    - Ember — AI Incident Response Engineer
+    - Vaultmind — On-device RAG assistant (Snapdragon AI Lab Challenge)
+    - LLM Arbitration System
+    - Quardian — Secure Text-to-SQL Guardrails System
+  exploring:
+    - On-device / edge AI inference
+    - AI guardrails, hallucination detection, and RBAC for AI systems
+    - Production observability for AI-driven systems
+  open_to:
+    - Full-time Software Engineer roles (2027 grad)
+    - Backend Engineering
+    - AI / ML Engineering
+    - Full Stack Engineering
+```
+
+<br/>
+
+---
+
+## <img src="https://img.shields.io/badge/-Connect-8B5CF6?style=flat-square"/>
+
+<div align="center">
+
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://linkedin.com/in/raahuldatta"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://github.com/raahuldatta"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://raahuldatta.dev"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<i>"Systems that don't just answer — they justify."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" width="100%"/>
+
+</div>
