@@ -48,7 +48,6 @@ I approach engineering with a **product mindset** — shipping end-to-end, from 
 
 <img src="https://img.shields.io/badge/Software%20Engineer-New%20Grad%202027-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Backend%20Engineering-7C3AED?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/AI%2FML%20Engineering-6D28D9?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Full%20Stack%20Roles-A78BFA?style=flat-square&labelColor=1a1a2e"/>
 
 </div>
@@ -63,7 +62,7 @@ I approach engineering with a **product mindset** — shipping end-to-end, from 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c&theme=dark"/>
 
 <br/><br/>
 
@@ -75,7 +74,7 @@ I approach engineering with a **product mindset** — shipping end-to-end, from 
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,redis&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb&theme=dark"/>
 
 <br/><br/>
 
@@ -268,10 +267,9 @@ Completed a 3-month hybrid full stack development internship based in Gachibowli
 
 | Recognition | Details |
 |:--|:--|
-| 🏆 Razorpay Buildathon | Built **Vasooli AI**, an agentic revenue recovery platform |
 | 🏆 Snapdragon AI Lab Build & Present Challenge | Building **Vaultmind**, an on-device RAG assistant (Qualcomm, via Unstop) |
 | ☁️ AWS Certified Cloud Practitioner | Certified in core AWS cloud concepts and services |
-| 🎓 Academic Standing | CGPA 8.17/10, Final-Year CSE, KL University |
+| 🎓 Academic Standing | CGPA 8.21/10, Final-Year CSE, KL University |
 
 </div>
 
@@ -298,8 +296,6 @@ Completed a 3-month hybrid full stack development internship based in Gachibowli
 <div align="center">
 
 <a href="https://leetcode.com/raahuldatta"><img src="https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://www.geeksforgeeks.org/user/raahuldatta"><img src="https://img.shields.io/badge/GeeksforGeeks-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://www.hackerrank.com/raahuldatta"><img src="https://img.shields.io/badge/HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://www.codechef.com/users/raahuldatta"><img src="https://img.shields.io/badge/CodeChef-A78BFA?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e"/></a>
 
 </div>
