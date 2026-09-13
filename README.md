@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-6D28D9?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/CGPA-8.17%2F10-7C3AED?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/CGPA-8.21%2F10-7C3AED?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Graduating-2027-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-4C1D95?style=flat-square&labelColor=1a1a2e"/>
 
@@ -158,24 +158,7 @@ Purpose-built for developers who need fast, private answers about their own code
 </details>
 
 <details>
-<summary><b>💸 Vasooli AI — Agentic Revenue Recovery Platform</b></summary>
-<br/>
-
-An agentic platform that automates revenue recovery workflows, built for the **Razorpay Buildathon**.
-
-| Attribute | Detail |
-|:--|:--|
-| **Stack** | FastAPI, PostgreSQL, Next.js, Claude API |
-| **Scale** | End-to-end recovery pipeline from detection to action |
-| **Performance** | Agent-driven decisioning on payment recovery workflows |
-| **Security** | Structured API-based access to financial data flows |
-| **Impact** | Buildathon submission demonstrating applied agentic AI in fintech |
-| **Repository** | *Add repo link* |
-
-</details>
-
-<details>
-<summary><b>🤖 LLM Arbitration System</b> <i>(in development)</i></summary>
+<summary><b>🤖 Verdikt - An LLM Arbitration System</b> <i>(in development)</i></summary>
 <br/>
 
 A system that routes incoming queries to multiple LLMs in parallel and arbitrates between their outputs to select or synthesize the most reliable response.
@@ -224,21 +207,6 @@ A secure desktop application that converts natural language into SQL with guardr
 </details>
 
 <details>
-<summary><b>🚀 DevLaunch — Containerized Deployment Pipeline</b></summary>
-<br/>
-
-| Attribute | Detail |
-|:--|:--|
-| **Stack** | Docker, AWS EC2, CI/CD |
-| **Scale** | Automated build-to-deploy pipeline |
-| **Performance** | Consistent, repeatable deployments via containerization |
-| **Security** | CI/CD-gated deployment process |
-| **Impact** | Streamlines deployment workflow for cloud-hosted applications |
-| **Repository** | *Add repo link* |
-
-</details>
-
-<details>
 <summary><b>🧩 SynapseLab — RAG-Powered Application</b></summary>
 <br/>
 
@@ -249,21 +217,6 @@ A secure desktop application that converts natural language into SQL with guardr
 | **Performance** | Context-grounded response generation |
 | **Security** | Standard API-layer access control |
 | **Impact** | Applied RAG in a production-style full-stack setting |
-| **Repository** | *Add repo link* |
-
-</details>
-
-<details>
-<summary><b>📄 ATS Resume Parser</b></summary>
-<br/>
-
-| Attribute | Detail |
-|:--|:--|
-| **Stack** | Parsing engine, structured data extraction |
-| **Scale** | Single-document parsing pipeline |
-| **Performance** | Structured field extraction from unstructured resumes |
-| **Security** | Local/document-scoped processing |
-| **Impact** | Automates resume screening against ATS criteria |
 | **Repository** | *Add repo link* |
 
 </details>
@@ -334,10 +287,9 @@ Leads digital content and social media strategy work for client brands.
 
 | Recognition | Details |
 |:--|:--|
-| 🏆 Razorpay Buildathon | Built **Vasooli AI**, an agentic revenue recovery platform |
 | 🏆 Snapdragon AI Lab Build & Present Challenge | Building **Vaultmind**, an on-device RAG assistant (Qualcomm, via Unstop) |
 | ☁️ AWS Certified Cloud Practitioner | Certified in core AWS cloud concepts and services |
-| 🎓 Academic Standing | CGPA 8.17/10, Final-Year CSE, KL University |
+| 🎓 Academic Standing | CGPA 8.21/10, Final-Year CSE, KL University |
 
 </div>
 
@@ -364,8 +316,6 @@ Leads digital content and social media strategy work for client brands.
 <div align="center">
 
 <a href="https://leetcode.com/raahuldatta"><img src="https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://www.geeksforgeeks.org/user/raahuldatta"><img src="https://img.shields.io/badge/GeeksforGeeks-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://www.hackerrank.com/raahuldatta"><img src="https://img.shields.io/badge/HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://www.codechef.com/users/raahuldatta"><img src="https://img.shields.io/badge/CodeChef-A78BFA?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e"/></a>
 
 </div>
@@ -459,7 +409,7 @@ current_focus:
 
 <div align="center">
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:raahuldatta@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://linkedin.com/in/raahuldatta"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://github.com/raahuldatta"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://raahuldatta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
