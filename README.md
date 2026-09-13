@@ -18,7 +18,7 @@
 <a href="https://github.com/raahuldatta"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://linkedin.com/in/raahuldatta"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://raahuldatta.dev"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://raahuldatta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
 
 <br/><br/>
 
