@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-6D28D9?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/CGPA-8.17%2F10-7C3AED?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/CGPA-8.21%2F10-7C3AED?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Graduating-2027-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-4C1D95?style=flat-square&labelColor=1a1a2e"/>
 
@@ -150,23 +150,6 @@ Purpose-built for developers who need fast, private answers about their own code
 </details>
 
 <details>
-<summary><b>💸 Vasooli AI — Agentic Revenue Recovery Platform</b></summary>
-<br/>
-
-An agentic platform that automates revenue recovery workflows, built for the **Razorpay Buildathon**.
-
-| Attribute | Detail |
-|:--|:--|
-| **Stack** | FastAPI, PostgreSQL, Next.js, Claude API |
-| **Scale** | End-to-end recovery pipeline from detection to action |
-| **Performance** | Agent-driven decisioning on payment recovery workflows |
-| **Security** | Structured API-based access to financial data flows |
-| **Impact** | Buildathon submission demonstrating applied agentic AI in fintech |
-| **Repository** | *Add repo link* |
-
-</details>
-
-<details>
 <summary><b>🤖 LLM Arbitration System</b> <i>(in development)</i></summary>
 <br/>
 
@@ -216,21 +199,6 @@ A secure desktop application that converts natural language into SQL with guardr
 </details>
 
 <details>
-<summary><b>🚀 DevLaunch — Containerized Deployment Pipeline</b></summary>
-<br/>
-
-| Attribute | Detail |
-|:--|:--|
-| **Stack** | Docker, AWS EC2, CI/CD |
-| **Scale** | Automated build-to-deploy pipeline |
-| **Performance** | Consistent, repeatable deployments via containerization |
-| **Security** | CI/CD-gated deployment process |
-| **Impact** | Streamlines deployment workflow for cloud-hosted applications |
-| **Repository** | *Add repo link* |
-
-</details>
-
-<details>
 <summary><b>🧩 SynapseLab — RAG-Powered Application</b></summary>
 <br/>
 
@@ -241,21 +209,6 @@ A secure desktop application that converts natural language into SQL with guardr
 | **Performance** | Context-grounded response generation |
 | **Security** | Standard API-layer access control |
 | **Impact** | Applied RAG in a production-style full-stack setting |
-| **Repository** | *Add repo link* |
-
-</details>
-
-<details>
-<summary><b>📄 ATS Resume Parser</b></summary>
-<br/>
-
-| Attribute | Detail |
-|:--|:--|
-| **Stack** | Parsing engine, structured data extraction |
-| **Scale** | Single-document parsing pipeline |
-| **Performance** | Structured field extraction from unstructured resumes |
-| **Security** | Local/document-scoped processing |
-| **Impact** | Automates resume screening against ATS criteria |
 | **Repository** | *Add repo link* |
 
 </details>
@@ -305,17 +258,6 @@ Completed a 3-month hybrid full stack development internship based in Gachibowli
 `Full Stack Development` `Hybrid Engineering`
 
 <br/>
-
-**Digital Content & Social Media Engineer** · iCOnquerors
-`Ongoing`
-
-Leads digital content and social media strategy work for client brands.
-
-- Produces content strategy and social media assets for client brands
-- Bridges technical and creative execution
-
-`Content Strategy` `Social Media`
-
 <br/>
 
 ---
