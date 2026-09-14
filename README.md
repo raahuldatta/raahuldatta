@@ -132,7 +132,7 @@ An AI system that investigates production incidents end-to-end: aggregates alert
 | **Performance** | Structured multi-step reasoning with traceable intermediate steps |
 | **Security** | Human-in-the-loop approval gate before any remediation action |
 | **Impact** | Demonstrates GenAI + backend engineering + production infra in one system |
-| **Repository** | *Add repo link* |
+| **Repository** |https://github.com/raahuldatta/Ember|
 
 Designed to combine agentic reasoning, tool calling, and observability into a single evidence-backed incident response workflow rather than a black-box "AI suggestion" layer.
 
@@ -202,7 +202,7 @@ A secure desktop application that converts natural language into SQL with guardr
 | **Performance** | Decoupled services for independent scaling |
 | **Security** | OAuth 2.0-based authentication and authorization |
 | **Impact** | Backend architecture demonstrating microservices best practices |
-| **Repository** | *Add repo link* |
+| **Repository** | [https://github.com/raahuldatta/WotNot_whatsApp|
 
 </details>
 
@@ -217,7 +217,7 @@ A secure desktop application that converts natural language into SQL with guardr
 | **Performance** | Context-grounded response generation |
 | **Security** | Standard API-layer access control |
 | **Impact** | Applied RAG in a production-style full-stack setting |
-| **Repository** | *Add repo link* |
+| **Repository** | https://github.com/raahuldatta/SynapseLab-updated |
 
 </details>
 
@@ -227,12 +227,12 @@ A secure desktop application that converts natural language into SQL with guardr
 
 | Attribute | Detail |
 |:--|:--|
-| **Stack** | *Add stack details* |
-| **Scale** | *Add scale details* |
-| **Performance** | *Add performance details* |
-| **Security** | *Add security details* |
-| **Impact** | *Add impact details* |
-| **Repository** | *Add repo link* |
+| **Stack** | Next.js 15, React 19, TypeScript, Tailwind CSS, Redux Toolkit, Radix UI / shadcn/ui, TMDb & IMDb APIs|
+| **Scale** | Full-stack app spanning search, filtering, and recommendation across a multi-thousand-title movie catalog via TMDb/IMDb|
+| **Performance** |Real-time movie data fetched live from external APIs rather than static datasets, with a responsive UI across screen sizes|
+| **Security** |API keys isolated via environment variables (.env.local), never committed to source|
+| **Impact** |Personalized, content-based movie discovery combining genre/language/metadata filtering with similarity-based recommendation logic|
+| **Repository** |https://github.com/raahuldatta/Watchify|
 
 </details>
 
@@ -266,19 +266,6 @@ Completed a 3-month hybrid full stack development internship based in Gachibowli
 `Full Stack Development` `Hybrid Engineering`
 
 <br/>
-
-**Digital Content & Social Media Engineer** · iCOnquerors
-`Ongoing`
-
-Leads digital content and social media strategy work for client brands.
-
-- Produces content strategy and social media assets for client brands
-- Bridges technical and creative execution
-
-`Content Strategy` `Social Media`
-
-<br/>
-
 ---
 
 ## <img src="https://img.shields.io/badge/-Achievements-8B5CF6?style=flat-square"/>
