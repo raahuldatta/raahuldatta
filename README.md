@@ -307,63 +307,6 @@ Completed a 3-month hybrid full stack development internship based in Gachibowli
 
 </div>
 
-<br/>
-
----
-
-## <img src="https://img.shields.io/badge/-GitHub%20Analytics-8B5CF6?style=flat-square"/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=raahuldatta&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=raahuldatta&theme=radical&hide_border=true&background=0d0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raahuldatta&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
-
-</div>
-
-<br/>
-
----
-
-## <img src="https://img.shields.io/badge/-GitHub%20Trophies-8B5CF6?style=flat-square"/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=raahuldatta&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</div>
-
-<br/>
-
----
-
-## <img src="https://img.shields.io/badge/-Contribution%20Activity-8B5CF6?style=flat-square"/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raahuldatta&theme=react-dark&bg_color=0d0221&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true"/>
-
-</div>
-
-<br/>
-
----
-
-## <img src="https://img.shields.io/badge/-Contribution%20Snake-8B5CF6?style=flat-square"/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/raahuldatta/raahuldatta/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-<br/>
-
----
-
 ## <img src="https://img.shields.io/badge/-Current%20Focus-8B5CF6?style=flat-square"/>
 
 ```yaml
