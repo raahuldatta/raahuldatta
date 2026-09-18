@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Raahul Datta Nidumoru — Software Engineer</title>
+<meta name="description" content="Portfolio of Raahul Datta Nidumoru — Software Engineer, AI/ML, Full Stack Developer." />
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,400&family=Fira+Code:wght@400;500;600&display=swap" rel="stylesheet">
+
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>✦</text></svg>">
+
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<div class="grain"></div>
+<canvas id="bg-canvas"></canvas>
+<div class="cursor-dot" id="cursorDot"></div>
+<div class="cursor-ring" id="cursorRing"></div>
+
+<div class="progress-bar" id="progressBar"></div>
+
+<div id="loader">
+  <div class="loader-text">RAAHUL DATTA</div>
+  <div class="loader-bar"><span></span></div>
+</div>
+
+<nav id="navbar">
+  <div class="nav-inner">
+    <a href="#home" class="logo">R<span>.</span>D<span>.</span>N<span>.</span></a>
+    <ul class="nav-links">
+      <li><a href="#about" data-text="About">About</a></li>
+      <li><a href="#skills" data-text="Skills">Skills</a></li>
+      <li><a href="#projects" data-text="Projects">Projects</a></li>
+      <li><a href="#experience" data-text="Experience">Experience</a></li>
+      <li><a href="#achievements" data-text="Achievements">Achievements</a></li>
+      <li><a href="#contact" data-text="Contact">Contact</a></li>
+    </ul>
+    <button class="nav-toggle" id="navToggle" aria-label="Toggle menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
+
+<div class="mobile-menu" id="mobileMenu">
+  <a href="#about">About</a>
+  <a href="#skills">Skills</a>
+  <a href="#projects">Projects</a>
+  <a href="#experience">Experience</a>
+  <a href="#achievements">Achievements</a>
+  <a href="#contact">Contact</a>
+</div>
+
+<!-- HERO -->
+<section id="home" class="hero">
+  <div class="hero-bg-blob blob1"></div>
+  <div class="hero-bg-blob blob2"></div>
+  <div class="hero-bg-blob blob3"></div>
+
+  <div class="hero-content">
+    <p class="hero-eyebrow reveal-up">✦ Software Engineer · AI/ML · Full Stack</p>
+    <h1 class="hero-title">
+      <span class="hero-line" data-line="1"><span class="hero-line-inner">Raahul Datta</span></span>
+      <span class="hero-line" data-line="2"><span class="hero-line-inner hero-line-italic">Nidumoru</span></span>
+    </h1>
+    <p class="hero-sub reveal-up" style="--d:0.3s">
+      I build <span class="typed" id="typedText"></span><span class="cursor-blink">|</span>
+    </p>
+    <p class="hero-desc reveal-up" style="--d:0.45s">
+      Final-year CSE student at KL University, shipping production-grade backend systems,
+      cloud infrastructure, and evidence-grounded AI — where correctness matters as much as capability.
+    </p>
+    <div class="hero-cta reveal-up" style="--d:0.6s">
+      <a href="#projects" class="btn btn-primary magnetic"><span>View Work</span></a>
+      <a href="mailto:raahuldatta@gmail.com" class="btn btn-ghost magnetic"><span>Get In Touch</span></a>
+    </div>
+    <div class="hero-socials reveal-up" style="--d:0.75s">
+      <a href="https://github.com/raahuldatta" target="_blank" rel="noopener" aria-label="GitHub">GitHub</a>
+      <a href="https://linkedin.com/in/raahuldatta" target="_blank" rel="noopener" aria-label="LinkedIn">LinkedIn</a>
+      <a href="https://leetcode.com/raahuldatta" target="_blank" rel="noopener" aria-label="LeetCode">LeetCode</a>
+    </div>
+  </div>
+
+  <div class="scroll-cue">
+    <span>Scroll</span>
+    <div class="scroll-line"><i></i></div>
+  </div>
+</section>
+
+<!-- MARQUEE -->
+<div class="marquee">
+  <div class="marquee-track">
+    <span>RAG PIPELINES</span><span>·</span><span>AGENTIC SYSTEMS</span><span>·</span>
+    <span>FASTAPI</span><span>·</span><span>NEXT.JS</span><span>·</span>
+    <span>AWS</span><span>·</span><span>LLM ORCHESTRATION</span><span>·</span>
+    <span>AI GUARDRAILS</span><span>·</span><span>OBSERVABILITY</span><span>·</span>
+    <span>RAG PIPELINES</span><span>·</span><span>AGENTIC SYSTEMS</span><span>·</span>
+    <span>FASTAPI</span><span>·</span><span>NEXT.JS</span><span>·</span>
+    <span>AWS</span><span>·</span><span>LLM ORCHESTRATION</span><span>·</span>
+    <span>AI GUARDRAILS</span><span>·</span><span>OBSERVABILITY</span><span>·</span>
+  </div>
+</div>
+
+<!-- ABOUT -->
+<section id="about" class="section">
+  <div class="section-inner">
+    <p class="section-tag reveal-up">01 · About</p>
+    <h2 class="section-title reveal-up">Systems that don't just<br/><em>answer</em> — they <em>justify</em>.</h2>
+
+    <div class="about-grid">
+      <div class="about-text reveal-up">
+        <p>
+          I'm <strong>Raahul Datta Nidumoru</strong>, a final-year Computer Science Engineering
+          student at <strong>KL University, Hyderabad</strong>, building production-grade software
+          at the intersection of backend engineering, cloud infrastructure, and applied AI.
+        </p>
+        <p>
+          My work centers on shipping systems that are reliable, observable, and evidence-grounded —
+          from FastAPI microservices and containerized deployments on AWS, to Retrieval-Augmented
+          Generation pipelines and multi-model AI arbitration systems.
+        </p>
+        <p>
+          I treat AI components as infrastructure to be tested, guarded, and monitored —
+          not black boxes to be trusted blindly.
+        </p>
+        <div class="about-badges">
+          <span>B.Tech CSE</span>
+          <span>CGPA 8.21/10</span>
+          <span>Graduating 2027</span>
+          <span>Hyderabad, India</span>
+        </div>
+      </div>
+
+      <div class="about-stats reveal-up">
+        <div class="stat-card tilt">
+          <span class="stat-num" data-count="7">0</span>
+          <span class="stat-label">Featured Projects</span>
+        </div>
+        <div class="stat-card tilt">
+          <span class="stat-num" data-count="2">0</span>
+          <span class="stat-label">Internships</span>
+        </div>
+        <div class="stat-card tilt">
+          <span class="stat-num" data-count="1">0</span>
+          <span class="stat-label">AWS Certification</span>
+        </div>
+        <div class="stat-card tilt">
+          <span class="stat-num" data-count="8" data-decimal="21">0</span>
+          <span class="stat-label">CGPA / 10</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SKILLS -->
+<section id="skills" class="section section-alt">
+  <div class="section-inner">
+    <p class="section-tag reveal-up">02 · Skills</p>
+    <h2 class="section-title reveal-up">Tools of the <em>trade</em>.</h2>
+
+    <div class="skills-grid">
+      <div class="skill-col reveal-up">
+        <h3>Languages</h3>
+        <ul><li>Python</li><li>JavaScript</li><li>TypeScript</li><li>Java</li><li>C</li></ul>
+      </div>
+      <div class="skill-col reveal-up">
+        <h3>Frontend</h3>
+        <ul><li>React</li><li>Next.js</li><li>HTML5</li><li>CSS3</li><li>Tailwind CSS</li></ul>
+      </div>
+      <div class="skill-col reveal-up">
+        <h3>Backend &amp; Data</h3>
+        <ul><li>FastAPI</li><li>Node.js</li><li>Express</li><li>PostgreSQL</li><li>MongoDB</li></ul>
+      </div>
+      <div class="skill-col reveal-up">
+        <h3>Cloud &amp; DevOps</h3>
+        <ul><li>AWS</li><li>Azure</li><li>Docker</li><li>GitHub Actions</li><li>Linux</li></ul>
+      </div>
+    </div>
+
+    <div class="expertise reveal-up">
+      <h3>AI / ML Expertise</h3>
+      <div class="expertise-list">
+        <div class="expertise-row">
+          <span>Retrieval-Augmented Generation (RAG)</span>
+          <div class="bar"><i style="--w:90%"></i></div>
+        </div>
+        <div class="expertise-row">
+          <span>LLM Integration</span>
+          <div class="bar"><i style="--w:90%"></i></div>
+        </div>
+        <div class="expertise-row">
+          <span>Agentic Systems</span>
+          <div class="bar"><i style="--w:72%"></i></div>
+        </div>
+        <div class="expertise-row">
+          <span>Multi-Model Arbitration</span>
+          <div class="bar"><i style="--w:72%"></i></div>
+        </div>
+        <div class="expertise-row">
+          <span>AI Guardrails &amp; Safety</span>
+          <div class="bar"><i style="--w:72%"></i></div>
+        </div>
+        <div class="expertise-row">
+          <span>On-Device / Edge AI</span>
+          <div class="bar"><i style="--w:72%"></i></div>
+        </div>
+        <div class="expertise-row">
+          <span>Observability for AI Systems</span>
+          <div class="bar"><i style="--w:72%"></i></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PROJECTS -->
+<section id="projects" class="section">
+  <div class="section-inner">
+    <p class="section-tag reveal-up">03 · Projects</p>
+    <h2 class="section-title reveal-up">Selected <em>work</em>.</h2>
+
+    <div class="projects-list">
+
+      <article class="project-card reveal-up">
+        <div class="project-num">01</div>
+        <div class="project-body">
+          <h3>Ember <span class="project-icon">🧠</span></h3>
+          <p class="project-role">AI Incident Response Engineer</p>
+          <p class="project-desc">An AI system that investigates production incidents end-to-end: aggregates alerts, analyzes logs and traces, checks recent deployments, searches historical incidents, identifies root cause, and generates a structured remediation report — with mandatory human approval before any action.</p>
+          <div class="project-tags"><span>Python</span><span>FastAPI</span><span>LangGraph</span><span>PostgreSQL</span><span>OpenTelemetry</span></div>
+          <a href="https://github.com/raahuldatta/Ember" target="_blank" rel="noopener" class="project-link">View Repository →</a>
+        </div>
+      </article>
+
+      <article class="project-card reveal-up">
+        <div class="project-num">02</div>
+        <div class="project-body">
+          <h3>Vaultmind <span class="project-icon">🔐</span></h3>
+          <p class="project-role">On-Device RAG Knowledge Assistant</p>
+          <p class="project-desc">A local-first RAG system that indexes a developer's own codebase and answers technical questions using an NPU-accelerated small language model — with zero data ever leaving the device. Built for the Snapdragon AI Lab Build &amp; Present Challenge (Qualcomm, via Unstop).</p>
+          <div class="project-tags"><span>On-Device RAG</span><span>Local Embeddings</span><span>NPU Inference</span></div>
+          <span class="project-link project-link-disabled">Repository coming soon</span>
+        </div>
+      </article>
+
+      <article class="project-card reveal-up">
+        <div class="project-num">03</div>
+        <div class="project-body">
+          <h3>Verdikt <span class="project-icon">🤖</span></h3>
+          <p class="project-role">LLM Arbitration System <em>(in development)</em></p>
+          <p class="project-desc">A system that routes incoming queries to multiple LLMs in parallel and arbitrates between their outputs to select or synthesize the most reliable response — reducing single-model failure risk.</p>
+          <div class="project-tags"><span>Multi-LLM Routing</span><span>API Orchestration</span></div>
+          <span class="project-link project-link-disabled">Repository coming soon</span>
+        </div>
+      </article>
+
+      <article class="project-card reveal-up">
+        <div class="project-num">04</div>
+        <div class="project-body">
+          <h3>Quardian <span class="project-icon">🛡️</span></h3>
+          <p class="project-role">Secure Text-to-SQL Guardrails System <em>(in development)</em></p>
+          <p class="project-desc">A secure desktop application that converts natural language into SQL with guardrails: hallucination detection, schema validation, role-based access control, and query performance analytics.</p>
+          <div class="project-tags"><span>Text-to-SQL</span><span>RBAC</span><span>Desktop App</span></div>
+          <span class="project-link project-link-disabled">Repository coming soon</span>
+        </div>
+      </article>
+
+      <article class="project-card reveal-up">
+        <div class="project-num">05</div>
+        <div class="project-body">
+          <h3>WotNot <span class="project-icon">⚙️</span></h3>
+          <p class="project-role">Microservices Platform</p>
+          <p class="project-desc">A multi-service backend architecture with secured inter-service authentication, demonstrating microservices best practices and independent scaling of decoupled services.</p>
+          <div class="project-tags"><span>FastAPI</span><span>OAuth 2.0</span><span>PostgreSQL</span></div>
+          <a href="https://github.com/raahuldatta/WotNot_whatsApp" target="_blank" rel="noopener" class="project-link">View Repository →</a>
+        </div>
+      </article>
+
+      <article class="project-card reveal-up">
+        <div class="project-num">06</div>
+        <div class="project-body">
+          <h3>SynapseLab <span class="project-icon">🧩</span></h3>
+          <p class="project-role">RAG-Powered Application</p>
+          <p class="project-desc">A full-stack application with an integrated retrieval-augmented generation pipeline for context-grounded response generation.</p>
+          <div class="project-tags"><span>Next.js</span><span>Node.js</span><span>RAG</span></div>
+          <a href="https://github.com/raahuldatta/SynapseLab-updated" target="_blank" rel="noopener" class="project-link">View Repository →</a>
+        </div>
+      </article>
+
+      <article class="project-card reveal-up">
+        <div class="project-num">07</div>
+        <div class="project-body">
+          <h3>Watchify <span class="project-icon">👁️</span></h3>
+          <p class="project-role">Movie Discovery Platform</p>
+          <p class="project-desc">A full-stack app spanning search, filtering, and recommendation across a multi-thousand-title movie catalog via TMDb/IMDb — with genre/language/metadata filtering and similarity-based recommendation logic.</p>
+          <div class="project-tags"><span>Next.js 15</span><span>React 19</span><span>TypeScript</span><span>Redux Toolkit</span></div>
+          <a href="https://github.com/raahuldatta/Watchify" target="_blank" rel="noopener" class="project-link">View Repository →</a>
+        </div>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+<!-- EXPERIENCE -->
+<section id="experience" class="section section-alt">
+  <div class="section-inner">
+    <p class="section-tag reveal-up">04 · Experience</p>
+    <h2 class="section-title reveal-up">Where I've <em>worked</em>.</h2>
+
+    <div class="timeline">
+      <div class="timeline-item reveal-up">
+        <div class="timeline-dot"></div>
+        <div class="timeline-content">
+          <span class="timeline-date">Jun 2026 – Aug 2026</span>
+          <h3>Full Stack Developer Intern</h3>
+          <p class="timeline-company">Redgates IT Solution</p>
+          <p>Completed a 3-month full stack development internship, working on a salon service application under the guidance of the Managing Director — from data model to UI.</p>
+          <div class="project-tags"><span>FastAPI</span><span>Full Stack</span><span>Product Iteration</span></div>
+        </div>
+      </div>
+
+      <div class="timeline-item reveal-up">
+        <div class="timeline-dot"></div>
+        <div class="timeline-content">
+          <span class="timeline-date">Jan 2026 – Apr 2026</span>
+          <h3>Full Stack Developer Intern</h3>
+          <p class="timeline-company">AD-X LIVE Private Limited</p>
+          <p>Completed a 3-month hybrid full stack development internship based in Gachibowli, Hyderabad, delivering features within an established engineering codebase and workflow.</p>
+          <div class="project-tags"><span>Full Stack</span><span>Hybrid Engineering</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ACHIEVEMENTS -->
+<section id="achievements" class="section">
+  <div class="section-inner">
+    <p class="section-tag reveal-up">05 · Achievements</p>
+    <h2 class="section-title reveal-up">Recognition &amp; <em>certifications</em>.</h2>
+
+    <div class="achievements-grid">
+      <div class="achieve-card reveal-up tilt">
+        <span class="achieve-icon">🏆</span>
+        <h3>Snapdragon AI Lab Build &amp; Present Challenge</h3>
+        <p>Building Vaultmind, an on-device RAG assistant (Qualcomm, via Unstop).</p>
+      </div>
+      <div class="achieve-card reveal-up tilt">
+        <span class="achieve-icon">☁️</span>
+        <h3>AWS Certified Cloud Practitioner</h3>
+        <p>Certified in core AWS cloud concepts and services.</p>
+      </div>
+      <div class="achieve-card reveal-up tilt">
+        <span class="achieve-icon">🎓</span>
+        <h3>Academic Standing</h3>
+        <p>CGPA 8.21/10, Final-Year CSE, KL University.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section id="contact" class="section section-contact">
+  <div class="hero-bg-blob blob1"></div>
+  <div class="section-inner">
+    <p class="section-tag reveal-up">06 · Contact</p>
+    <h2 class="section-title reveal-up">Let's build something<br/><em>evidence-grounded.</em></h2>
+    <p class="contact-desc reveal-up">
+      Open to Software Engineer (New Grad 2027), Backend, AI/ML, and Full Stack roles.
+      Reach out — I reply fast.
+    </p>
+    <a href="mailto:raahuldatta@gmail.com" class="contact-email reveal-up magnetic">raahuldatta@gmail.com</a>
+
+    <div class="contact-links reveal-up">
+      <a href="https://github.com/raahuldatta" target="_blank" rel="noopener">GitHub ↗</a>
+      <a href="https://linkedin.com/in/raahuldatta" target="_blank" rel="noopener">LinkedIn ↗</a>
+      <a href="https://leetcode.com/raahuldatta" target="_blank" rel="noopener">LeetCode ↗</a>
+      <a href="https://www.codechef.com/users/raahuldatta" target="_blank" rel="noopener">CodeChef ↗</a>
+    </div>
+  </div>
+
+  <footer>
+    <p>Designed &amp; built by Raahul Datta Nidumoru · 2026</p>
+    <button id="scrollTop" class="magnetic" aria-label="Scroll to top">↑</button>
+  </footer>
+</section>
+
+<script src="script.js"></script>
+</body>
+</html>
