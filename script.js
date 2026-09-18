@@ -206,7 +206,7 @@
       if (p.y > h) p.y = 0;
       ctx.beginPath();
       ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
-      ctx.fillStyle = `rgba(167,143,250,${p.a})`;
+      ctx.fillStyle = `rgba(232,168,124,${p.a})`;
       ctx.fill();
     });
     for (let i = 0; i < particles.length; i++) {
@@ -218,7 +218,7 @@
           ctx.beginPath();
           ctx.moveTo(particles[i].x, particles[i].y);
           ctx.lineTo(particles[j].x, particles[j].y);
-          ctx.strokeStyle = `rgba(139,92,246,${0.08 * (1 - dist / 120)})`;
+          ctx.strokeStyle = `rgba(217,119,87,${0.08 * (1 - dist / 120)})`;
           ctx.stroke();
         }
       }
